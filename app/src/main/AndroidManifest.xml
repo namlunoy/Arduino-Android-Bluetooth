@@ -43,7 +43,13 @@
         <activity
             android:name=".Test"
             android:label="@string/title_activity_test"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SendData_RGB"
+            android:label="@string/title_activity_send_data__rgb" />
+        <activity
+            android:name=".SendData_car"
+            android:label="@string/title_activity_send_data_car" />
     </application>
 
 </manifest>

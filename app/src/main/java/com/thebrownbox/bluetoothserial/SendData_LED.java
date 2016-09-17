@@ -23,7 +23,7 @@ public class SendData_LED extends AppCompatActivity {
         button.setBackgroundColor(Color.rgb(0,255,0));
         // Load an ad into the AdMob banner view.
         MyHelper.showBanner(this,R.id.adView_led);
-
+        SendData.myBluetooth.send("0");
     }
 
 

@@ -47,10 +47,10 @@ public class SendData extends AppCompatActivity {
                         intent = new Intent(getApplicationContext(), SendData_LED.class);
                         break;
                     case 2:
-                        intent = new Intent(getApplicationContext(), SendData_RawData.class);
+                        intent = new Intent(getApplicationContext(), SendData_RGB.class);
                         break;
                     case 3:
-                        intent = new Intent(getApplicationContext(), SendData_RawData.class);
+                        intent = new Intent(getApplicationContext(), SendData_car.class);
                         break;
                     default:
                         break;

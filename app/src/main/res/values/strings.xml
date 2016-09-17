@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Bluetooth Serial</string>
 
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Examples</string>
 
     <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
     <string name="start_level">Level 1</string>
@@ -20,6 +20,8 @@
         For more information, see https://support.google.com/admob/answer/3052638
     <!- -->
     <string name="banner_ad_unit_id">ca-app-pub-6921176146936171/4010581843</string>
-    <string name="title_activity_send_data__led">LED Controler</string>
+    <string name="title_activity_send_data__led">LED Controller</string>
     <string name="title_activity_test">Test</string>
+    <string name="title_activity_send_data__rgb">LED RGB Controller</string>
+    <string name="title_activity_send_data_car">Car Controller</string>
 </resources>

@@ -16,6 +16,7 @@ import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.preference.PreferenceManager.OnActivityResultListener;
 import android.support.design.widget.Snackbar;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -124,6 +125,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         final ArrayAdapter adapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, deviceNames);
         listView.setAdapter(adapter);
+
+        if(deviceNames.size() == 0){
+            (new AlertDialog.Builder(this)).setTitle("Note!").setMessage("Pair with your modules/devices first!").show();
+        }
     }
 
     @Override
@@ -155,6 +160,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         int id = item.getItemId();
 
         if (id == R.id.action_settings) {
+            Intent intent= new Intent(Intent.ACTION_VIEW,Uri.parse("https://goo.gl/xjXr2G"));
+            startActivity(intent);
             return true;
         }
 
@@ -175,7 +182,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if (mInterstitialAd != null && mInterstitialAd.isLoaded()) {
             mInterstitialAd.show();
         } else {
-            Toast.makeText(this, "Ad did not load", Toast.LENGTH_SHORT).show();
+            //Toast.makeText(this, "Ad did not load", Toast.LENGTH_SHORT).show();
         }
     }
 
