@@ -67,8 +67,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
 
         // Quang cao
-        loadInterstitial();
-        MyHelper.showBanner(this, R.id.adView_main);
+        //loadInterstitial();
+       // MyHelper.showBanner(this, R.id.adView_main);
+
         // Bluetooth
         bluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
         pairedDevices = new ArrayList<>();

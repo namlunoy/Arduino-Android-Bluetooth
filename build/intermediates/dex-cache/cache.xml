@@ -1,2 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bf78eb13e41ed8b449c9f7194a36db39256f5d37">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0eaaeb90b11e8f0094c3482a662e0a8acdec2071/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_d9310a8a0a1485c56f4668edac169fa1fae6f93c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_36479d94c455bbb181e054834af08e460005b840/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_c06c5f0918f0797ffe3ea9f270ab3240f63729ff/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_043aa9e90c76152ac455e8f70020c2201a4c826f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_3a698cf467ba95ac8fa842b8ab2c06d0e42265db/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_29591daa476bea4c0d03e9fec42d4f4b460dc7c1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_1f62ebed6f3316c44b049dc10310a8befd84ef12/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_e88859e2d08cb7e6e313a53d1b76d1df5edccc64/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_fab9ef70a0bdea415faefa821a7f14b343115776/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_86fc1af5d545dd07950e41b0069dbe4625b122dd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_414a29349be9f4d2221f1d6de9fea023dfd19b85/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0d5970b45a1394707ec37dac46fb4dcd80ee5d76/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_866051b9077dad5ef8d725df11e933cfcebfe854/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_56886ad72addccaca76f025b945ea887d75edad7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_e939b58af34c340b9da08f037d2a1e33f4916e1a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_72450833a328e180281bda1cbd4d73ca476c602a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4e9c486046ae513f0bdcddbf2ee65c55008358e0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9e11116c5e235cb7cbef34200a49c3ae84a8a0af/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_47b0f21237ea59e285eec601683c2f7df80c4b6a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_77aa290c053ada9bb15c0c9416dfe8963c5f93a4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_1261b40db6d0bf7b1bfc3514b7a415b8034ff457/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_454af79ab732eb40bb896b5f2c17e544bfcef7cf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_c165420c4243aab540b440e3e58237bd5a905d35/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8b4ec6bd4eb727e22617dbe8ac2e2a60c1e784a9">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a585467d62793eded0f80d641317bacb5e234d8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_8542b160394e5cfdae3caaf38a8af88bbfdc4a32/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_8be0987b01849d29c5b613f5b06e11f6219368e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/hoangcong/_Projects/Arduino/Arduino-Android-Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_1f93b4986077a9bf4e5d588a1499d95ec434bb62/classes.dex" />
+    </item>
+
+</items>

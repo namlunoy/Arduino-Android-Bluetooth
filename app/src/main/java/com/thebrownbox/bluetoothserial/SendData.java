@@ -29,6 +29,7 @@ public class SendData extends AppCompatActivity {
         controls.add("LED Controller");
         controls.add("LED RGB Controller");
         controls.add("Car Controller");
+        controls.add("Customize your own");
 
         listView = (ListView) findViewById(R.id.listViewControl);
 
@@ -51,6 +52,9 @@ public class SendData extends AppCompatActivity {
                         break;
                     case 3:
                         intent = new Intent(getApplicationContext(), SendData_car.class);
+                        break;
+                    case 4:
+                        intent = new Intent(getApplicationContext(), Customize.class);
                         break;
                     default:
                         break;

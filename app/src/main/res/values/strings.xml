@@ -24,4 +24,5 @@
     <string name="title_activity_test">Test</string>
     <string name="title_activity_send_data__rgb">LED RGB Controller</string>
     <string name="title_activity_send_data_car">Car Controller</string>
+    <string name="title_activity_customize">Customize</string>
 </resources>

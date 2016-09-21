@@ -50,6 +50,9 @@
         <activity
             android:name=".SendData_car"
             android:label="@string/title_activity_send_data_car" />
+        <activity
+            android:name=".Customize"
+            android:label="@string/title_activity_customize"></activity>
     </application>
 
 </manifest>
